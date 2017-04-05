@@ -1,4 +1,5 @@
 # hello-world
 repository awal
 
-config;
+penambahan kedua;
+
